@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdncrypt",
+        "uuid": 18918687,
+        "checksum": "tbzsr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
